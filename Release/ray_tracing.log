@@ -1,0 +1,81 @@
+﻿  source.cpp
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(111,115): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(123,29): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(162,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(169,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(170,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(171,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(192,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(192,68): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(193,48): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(193,70): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(194,51): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(194,73): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(195,48): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(196,46): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(196,68): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(208,48): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(209,47): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\geometry.h(66,47): warning C4244: '=': conversion from 'U' to 'T', possible loss of data
+          with
+          [
+              U=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\source.cpp(129): message : see reference to function template instantiation 'vec<3,float> operator *<3,float,double>(const vec<3,float> &,const U &)' being compiled
+          with
+          [
+              U=double
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 295 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ray_tracing.vcxproj -> C:\Users\newda\OneDrive\Рабочий стол\ray_tracing\Release\ray_tracing.exe
